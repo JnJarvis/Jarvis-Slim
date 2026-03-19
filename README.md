@@ -1,11 +1,11 @@
 # Jarvis-Slim
 
-A lightweight local Jarvis-style assistant powered by `llama-cpp-python`.
+A lightweight local Jarvis-style assistant powered by `llama-cpp-python` and `Llama-3.2-8B-Instruct`.
 
 NOTE: This is a demo code is based on a code heavily integrated into my setup (local comuputer, networks, and accounts). Hence, much of the functionality has been removed for ease of setup. RAG, Reminiders, Actions, and all original plugins do not yet exsist for this version.
 
 ## Installation
-
+Model link: https://huggingface.co/mradermacher/Llama-3.2-8B-Instruct-GGUF/resolve/main/Llama-3.2-8B-Instruct.Q5_K_M.gguf
 1. Install Python 3.10+.
 2. Put your model file at:
    - `C:/Users/<your-username>/Llama-3.2-8B-Instruct-Q5_K_M.gguf`
